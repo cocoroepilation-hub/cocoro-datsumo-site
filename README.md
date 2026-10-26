@@ -2,7 +2,7 @@
 
 東大阪・布施エリアの美容脱毛サロン「cocoRo脱毛」のWebサイトです。
 
-**公開URL:** https://sishigami-lab.github.io/cocoro-datsumo-site/
+**公開URL:** https://cocoroepilation-hub.github.io/cocoro-datsumo-site/
 
 ## ファイル構成
 
