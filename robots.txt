@@ -6,4 +6,4 @@ Disallow: /news-editor.html
 Disallow: /link-editor.html
 Disallow: /update-manual.html
 
-Sitemap: https://sishigami-lab.github.io/cocoro-datsumo-site/sitemap.xml
+Sitemap: https://cocoroepilation-hub.github.io/cocoro-datsumo-site/sitemap.xml
